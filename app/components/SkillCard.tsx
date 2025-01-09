@@ -1,6 +1,6 @@
 interface SkillItem {
   name: string
-  icon: JSX.Element
+  icon: React.ReactNode
 }
 
 interface SkillCardProps {

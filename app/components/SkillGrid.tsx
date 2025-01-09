@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 
 interface Skill {
   name: string
-  icon: JSX.Element
+  icon: React.ReactNode
 }
 
 interface SkillGridProps {
